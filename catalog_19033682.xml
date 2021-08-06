@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE musicStore SYSTEM "catalog_19033682.dtd">
+<?xml-stylesheet type="text/css" href="catalog_19033682.css"?>
+<musicStore xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="catalog_19033682.xsd">
+    <store>
+        <logo></logo>
+        <storeName>Ownage Music Store</storeName>
+        <address>Lazimpat, Kathmandu</address>
+        <telephoneNumber>014429900</telephoneNumber>
+        <website>www.ownagemusicstore.com.np</website>
+    </store>
+
+    <song>
+        <songs id="S1">
+            <songCover sID="C1"></songCover>
+
+                <name>Paranoid</name>
+                <genre>Rock</genre>
+                <producer>Rodger Bain</producer>
+                <artist>Ozzy Osbourne</artist>
+                <album>Paranoid</album>
+                <featuredartist>Mr Hudson</featuredartist>
+                <backVocalist>Kid Cudi</backVocalist>
+                <year releaseDate="AD">1970</year>
+                <runTime>2min 28seconds</runTime>
+
+        </songs>
+
+        <songs id="S2">
+            <songCover sID="C2"></songCover>
+
+                <name>The Zephyr Song</name>
+                <genre>Alternative rock</genre>
+                <producer>Rick Rubin</producer>
+                <artist>Red Hot Chili Peppers</artist>
+                <album>By the Way</album>
+                <year releaseDate="AD">2002</year>
+                <runTime>3min 52seconds</runTime>
+        </songs>
+
+        <songs id="S3">
+            <songCover sID="C3"></songCover>
+
+                <name>Radio Ga Ga</name>
+                <genre>Rock</genre>
+                <producer>Reinhold Mack</producer>
+                <artist>Queen</artist>
+                <album>The Works</album>
+                <year releaseDate="AD">1984</year>
+                <runTime>5min 54seconds</runTime>
+
+        </songs>
+
+        <songs id="S4">
+            <songCover sID="sC4"></songCover>
+
+                <name>I cant escape Myself</name>
+                <genre>Post Punk</genre>
+                <producer>Nick Robbins</producer>
+                <artist>The Sound</artist>
+                <album>Jeopardy</album>
+                <year releaseDate="AD">1980</year>
+                <runTime>3min 57seconds</runTime>
+
+        </songs>
+
+        <songs id="S5">
+            <songCover sID="C5"></songCover>
+                <name>Wonderwall</name>
+                <genre>Indie</genre>
+                <producer>Noel Gallagher</producer>
+                <artist>Oasis</artist>
+                <album>Morning Glory</album>
+                <year releaseDate="AD">1995</year>
+                <runTime>4min 40seconds</runTime>
+        </songs>
+
+        <songs id="S6">
+            <songCover sID="C6"></songCover>
+
+                <name>Numb</name>
+                <genre>Alternative Rock</genre>
+                <producer>Don Gilmore</producer>
+                <artist>Linkin Park</artist>
+                <album>Meteora</album>
+                <backVocalist>Bono, Larry Mullen</backVocalist>
+                <year releaseDate="AD">2003</year>
+                <runTime>3min 7second</runTime>
+        </songs>
+
+        <songs id="S7">
+            <songCover sID="C7"></songCover>
+                <name>Boulevard of Broken Dreams</name>
+                <genre>Indie</genre>
+                <producer>Rob Cavallo</producer>
+                <artist>Green Day</artist>
+                <album>American Idiot</album>
+                <director>Samuel Bayer</director>
+                <year releaseDate="AD">2004</year>
+                <runTime>4min 48seconds</runTime>
+        </songs>
+
+        <songs id="S8">
+            <songCover sID="C8"></songCover>
+                <name>Not Afraid</name>
+                <genre>Hip Hop</genre>
+                <producer>Matthew Burnett, Jordan Evans</producer>
+                <artist>Eminem</artist>
+                <album>Recovery</album>
+                <year releaseDate="AD">2010</year>
+                <runTime>4min 19seconds</runTime>
+        </songs>
+
+        <songs id="S9">
+            <songCover sID="C9"></songCover>
+                <name>I Want It That Way</name>
+                <genre>Pop</genre>
+                <producer>Kristian Lundin, Max Martin</producer>
+                <artist>Backstreet Boys</artist>
+                <album>Millennium</album>
+                <director>Wayne Isham</director>
+                <year releaseDate="AD">1999</year>
+                <runTime>3min 40 seconds</runTime>
+        </songs>
+
+        <songs id="S10">
+            <songCover sID="C10"></songCover>
+                <name>All Of Me</name>
+                <genre>Pop</genre>
+                <producer>John Legend</producer>
+                <artist>John Legend</artist>
+                <album>Love in the Future</album>
+                <featuredartist>Tiesto</featuredartist>
+                <year releaseDate="AD">2013</year>
+                <runTime>5min 8seconds </runTime>
+        </songs>
+
+        <songs id="S11">
+            <songCover sID="C11"></songCover>
+                <name>Payphone</name>
+                <genre>Pop</genre>
+                <producer>Benny Blanco, Shellback</producer>
+                <artist>Maroon 5</artist>
+                <album>Overexposed</album>
+                <featuredartist>Wiz Khalifa</featuredartist>
+                <year releaseDate="AD">2012</year>
+                <runTime>4min 40 seconds</runTime>
+        </songs>
+
+        <songs id="S12">
+            <songCover sID="C12"></songCover>
+                <name>One Dance</name>
+                <genre>Pop</genre>
+                <producer>Nineteen85</producer>
+                <artist>Drake</artist>
+                <album>Views</album>
+                <backVocalist>Wizkid, Kyla</backVocalist>
+                <year releaseDate="AD">2016</year>
+                <runTime>2min 55seconds</runTime>
+        </songs>
+
+        <songs id="S13">
+            <songCover sID="C13"></songCover>
+                <name>Californication</name>
+                <genre>Indie</genre>
+                <producer>Rick Rubin</producer>
+                <artist>Red Hot Chili Peppers</artist>
+                <album>Red Hot Chili Peppers</album>
+                <year releaseDate="AD">1999</year>
+                <runTime>5min 22seconds</runTime>
+        </songs>
+
+        <songs id="S14">
+            <songCover sID="s14"></songCover>
+                <name>Smack That</name>
+                <genre>Pop</genre>
+                <producer>Eminem</producer>
+                <artist>Akon</artist>
+                <album>Konvicted</album>
+                <featuredartist>Eminem</featuredartist>
+                <director>Benny Boom</director>
+                <year releaseDate="AD">2006</year>
+                <runTime>4min 12seconds</runTime>
+        </songs>
+
+        <songs id="S15">
+            <songCover sID="C15"></songCover>
+                <name>Losing My Religion</name>
+                <genre>Rock</genre>
+                <producer>Scott Litt</producer>
+                <artist>REM</artist>
+                <album>Out of Time</album>
+                <director>Tarsem Singh</director>
+                <year releaseDate="AD">1991</year>
+                <runTime>4min 54seconds</runTime>
+        </songs>
+
+    </song>
+    
+</musicStore>

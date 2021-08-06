@@ -1,0 +1,33 @@
+
+        <!ELEMENT musicStore (store,song)>
+
+        <!ELEMENT store (logo,storeName,address,telephoneNumber,website)>
+
+        <!ELEMENT logo (#PCDATA)>
+        <!ELEMENT storeName (#PCDATA)>
+        <!ELEMENT address (#PCDATA)>
+        <!ELEMENT telephoneNumber (#PCDATA)>
+        <!ELEMENT website (#PCDATA)>
+
+        <!ELEMENT song (songs+)>
+        <!ELEMENT songs (songCover,name,genre,producer?,artist,album?,featuredartist?,backVocalist?,director?,year,runTime)>
+        <!ATTLIST songs
+
+                id CDATA #REQUIRED>
+        <!ELEMENT songCover (#PCDATA)>
+        <!ATTLIST songCover
+                sID CDATA #REQUIRED>
+        <!ELEMENT name (#PCDATA)>
+        <!ELEMENT genre (#PCDATA)>
+        <!ELEMENT producer (#PCDATA)>
+        <!ELEMENT artist (#PCDATA)>
+        <!ELEMENT album (#PCDATA)>
+        <!ELEMENT featuredartist (#PCDATA)>
+        <!ELEMENT backVocalist (#PCDATA)>
+        <!ELEMENT director (#PCDATA)>
+        <!ELEMENT year (#PCDATA)>
+        <!ATTLIST year
+                releaseDate CDATA #REQUIRED>
+        <!ELEMENT runTime (#PCDATA)>
+        <!ATTLIST musicStore xmlns:xsi CDATA #REQUIRED>
+        <!ATTLIST musicStore xsi:noNamespaceSchemaLocation CDATA #REQUIRED>
